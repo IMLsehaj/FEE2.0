@@ -1,0 +1,13 @@
+section{
+    width: 80vw;
+    margin: 20 px auto;
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    grid-template-rows: 100px 100px 100px 100px 100px;
+    grid-template-columns: auto ;
+    /* grid-template-columns: repeat();
+    grid-template-rows: repeat(); */
+}
+div{
+    height: 50px;
+}

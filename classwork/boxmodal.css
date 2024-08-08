@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 5px solid black;
+}
+div{
+    margin: 30px;
+    border: 2px solid red;
+    padding: 20px 10px 15px; /* single value all side  (2value 1to top bottom 1to laeft right ) (3 value 1to top 1 to bottom 1 to left right) (4value 1 to top 1 to bottom 1 to left 1 to right)*/
+    
+} 
+p{
+    text-align: center;
+    text-align: end;
+    text-align: justify;
+    text-align: left;
+    text-align: right;
+    text-align: start;
+}
+koh2{
+    font-size: 30px;
+    text-decoration: line-through;
+    text-decoration-color: aquamarine;
+    text-decoration-style: wavy;
+}
+h3{
+    text-transform: capitalize;
+    text-transform: lowercase;
+    text-transform: uppercase;
+    
+}
+h4{
+    word-spacing:  5px;
+    text-indent: 5px;
+}
